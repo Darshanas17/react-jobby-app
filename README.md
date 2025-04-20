@@ -1,7 +1,7 @@
 # React Jobby App
 
 ## 🚀 Live Demo
-[Click here to view the demo](https://react-jobby-app-chi.vercel.app/)
+[Click here to view the demo](https://darshan-react-jobby-app.vercel.app/login)
 
 ## 📌 Overview
 The **Jobby App** is a dynamic job listing application built with React. It allows users to browse job opportunities, apply filters, view detailed job descriptions, and manage login/logout functionality.
